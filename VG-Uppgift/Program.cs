@@ -1,10 +1,12 @@
-﻿namespace VG_Uppgift
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace VG_Uppgift
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("the vguppgift");
+            int numberOfParkingSpaces = 15;
         }
     }
 }
