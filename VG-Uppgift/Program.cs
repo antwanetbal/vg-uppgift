@@ -6,7 +6,8 @@ namespace VG_Uppgift
     {
         static void Main(string[] args)
         {
-            int numberOfParkingSpaces = 15;
+            int numberOfParkingSpaces = 15; 
+            double priceOfOneMinuteParkering = 1.5; //kr
         }
     }
 }

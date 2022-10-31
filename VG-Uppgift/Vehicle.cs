@@ -8,8 +8,8 @@ namespace VG_Uppgift
 {
     internal class Vehicle
     {
-       public int registrationNumber { get; set; }
+       public int RegistrationNumber { get; set; }
        public string Color { get; set; }    
-       public string typeOfParkering { get; set; }
+       public string TypeOfParkering { get; set; }
     }
 }

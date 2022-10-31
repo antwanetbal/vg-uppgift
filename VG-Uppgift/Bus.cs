@@ -8,6 +8,6 @@ namespace VG_Uppgift
 {
     internal class Bus
     {
-        public int numberOfPassengers { get; set; } 
+        public int NumberOfPassengers { get; set; } 
     }
 }
